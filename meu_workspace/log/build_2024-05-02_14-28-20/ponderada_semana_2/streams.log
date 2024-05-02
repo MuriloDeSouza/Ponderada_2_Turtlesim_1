@@ -1,0 +1,24 @@
+[0.793s] Invoking command in '/home/murilo_prianti/meu_workspace/src/ponderada_semana_2': PYTHONPATH=/home/murilo_prianti/meu_workspace/build/ponderada_semana_2/prefix_override:/home/murilo_prianti/meu_workspace/install/ponderada_semana_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ponderada_semana_2 build --build-base /home/murilo_prianti/meu_workspace/build/ponderada_semana_2/build install --record /home/murilo_prianti/meu_workspace/build/ponderada_semana_2/install.log --single-version-externally-managed install_data
+[0.993s] running egg_info
+[0.993s] writing ../../build/ponderada_semana_2/ponderada_semana_2.egg-info/PKG-INFO
+[0.996s] writing dependency_links to ../../build/ponderada_semana_2/ponderada_semana_2.egg-info/dependency_links.txt
+[0.997s] writing entry points to ../../build/ponderada_semana_2/ponderada_semana_2.egg-info/entry_points.txt
+[0.997s] writing requirements to ../../build/ponderada_semana_2/ponderada_semana_2.egg-info/requires.txt
+[0.997s] writing top-level names to ../../build/ponderada_semana_2/ponderada_semana_2.egg-info/top_level.txt
+[0.999s] reading manifest file '../../build/ponderada_semana_2/ponderada_semana_2.egg-info/SOURCES.txt'
+[0.999s] writing manifest file '../../build/ponderada_semana_2/ponderada_semana_2.egg-info/SOURCES.txt'
+[0.999s] running build
+[0.999s] running build_py
+[0.999s] copying ponderada_semana_2/ponderada_2.py -> /home/murilo_prianti/meu_workspace/build/ponderada_semana_2/build/lib/ponderada_semana_2
+[1.000s] running install
+[1.000s] running install_lib
+[1.001s] copying /home/murilo_prianti/meu_workspace/build/ponderada_semana_2/build/lib/ponderada_semana_2/ponderada_2.py -> /home/murilo_prianti/meu_workspace/install/ponderada_semana_2/lib/python3.10/site-packages/ponderada_semana_2
+[1.001s] byte-compiling /home/murilo_prianti/meu_workspace/install/ponderada_semana_2/lib/python3.10/site-packages/ponderada_semana_2/ponderada_2.py to ponderada_2.cpython-310.pyc
+[1.002s] running install_data
+[1.002s] running install_egg_info
+[1.003s] removing '/home/murilo_prianti/meu_workspace/install/ponderada_semana_2/lib/python3.10/site-packages/ponderada_semana_2-0.0.0-py3.10.egg-info' (and everything under it)
+[1.004s] Copying ../../build/ponderada_semana_2/ponderada_semana_2.egg-info to /home/murilo_prianti/meu_workspace/install/ponderada_semana_2/lib/python3.10/site-packages/ponderada_semana_2-0.0.0-py3.10.egg-info
+[1.004s] running install_scripts
+[1.020s] Installing ponderada_2 script to /home/murilo_prianti/meu_workspace/install/ponderada_semana_2/lib/ponderada_semana_2
+[1.020s] writing list of installed files to '/home/murilo_prianti/meu_workspace/build/ponderada_semana_2/install.log'
+[1.044s] Invoked command in '/home/murilo_prianti/meu_workspace/src/ponderada_semana_2' returned '0': PYTHONPATH=/home/murilo_prianti/meu_workspace/build/ponderada_semana_2/prefix_override:/home/murilo_prianti/meu_workspace/install/ponderada_semana_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ponderada_semana_2 build --build-base /home/murilo_prianti/meu_workspace/build/ponderada_semana_2/build install --record /home/murilo_prianti/meu_workspace/build/ponderada_semana_2/install.log --single-version-externally-managed install_data
