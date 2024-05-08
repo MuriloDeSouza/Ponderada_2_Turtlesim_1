@@ -1,4 +1,4 @@
--I/home/murilo_prianti/meu_workspace/src/ros_tutorials/turtlesim/include
+-I/home/murilo_prianti/Documents/GitHub/Ponderada_2_Turtlesim_1/meu_workspace/src/ros_tutorials/turtlesim/include
 -I/usr/include/x86_64-linux-gnu/qt5
 -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets
 -I/usr/include/x86_64-linux-gnu/qt5/QtGui
@@ -6,5 +6,5 @@
 -I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++
 -DROS_PACKAGE_NAME="turtlesim"
 -o
-/home/murilo_prianti/meu_workspace/build/turtlesim/include/turtlesim/moc_turtle_frame.cpp
-/home/murilo_prianti/meu_workspace/src/ros_tutorials/turtlesim/include/turtlesim/turtle_frame.h
+/home/murilo_prianti/Documents/GitHub/Ponderada_2_Turtlesim_1/meu_workspace/build/turtlesim/include/turtlesim/moc_turtle_frame.cpp
+/home/murilo_prianti/Documents/GitHub/Ponderada_2_Turtlesim_1/meu_workspace/src/ros_tutorials/turtlesim/include/turtlesim/turtle_frame.h

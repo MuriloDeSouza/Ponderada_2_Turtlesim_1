@@ -1,8 +1,8 @@
-# Install script for directory: /home/murilo_prianti/meu_workspace/build/turtlesim/turtlesim__py
+# Install script for directory: /home/murilo_prianti/Documents/GitHub/Ponderada_2_Turtlesim_1/meu_workspace/build/turtlesim/turtlesim__py
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/murilo_prianti/meu_workspace/install/turtlesim")
+  set(CMAKE_INSTALL_PREFIX "/home/murilo_prianti/Documents/GitHub/Ponderada_2_Turtlesim_1/meu_workspace/install/turtlesim")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/murilo_prianti/meu_workspace/src/ros_tutorials/turtlesim
+CMAKE_SOURCE_DIR = /home/murilo_prianti/Documents/GitHub/Ponderada_2_Turtlesim_1/meu_workspace/src/ros_tutorials/turtlesim
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/murilo_prianti/meu_workspace/build/turtlesim
+CMAKE_BINARY_DIR = /home/murilo_prianti/Documents/GitHub/Ponderada_2_Turtlesim_1/meu_workspace/build/turtlesim
 
 # Utility rule file for uninstall.
 
@@ -78,6 +78,6 @@ CMakeFiles/uninstall.dir/clean:
 .PHONY : CMakeFiles/uninstall.dir/clean
 
 CMakeFiles/uninstall.dir/depend:
-	cd /home/murilo_prianti/meu_workspace/build/turtlesim && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/murilo_prianti/meu_workspace/src/ros_tutorials/turtlesim /home/murilo_prianti/meu_workspace/src/ros_tutorials/turtlesim /home/murilo_prianti/meu_workspace/build/turtlesim /home/murilo_prianti/meu_workspace/build/turtlesim /home/murilo_prianti/meu_workspace/build/turtlesim/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/murilo_prianti/Documents/GitHub/Ponderada_2_Turtlesim_1/meu_workspace/build/turtlesim && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/murilo_prianti/Documents/GitHub/Ponderada_2_Turtlesim_1/meu_workspace/src/ros_tutorials/turtlesim /home/murilo_prianti/Documents/GitHub/Ponderada_2_Turtlesim_1/meu_workspace/src/ros_tutorials/turtlesim /home/murilo_prianti/Documents/GitHub/Ponderada_2_Turtlesim_1/meu_workspace/build/turtlesim /home/murilo_prianti/Documents/GitHub/Ponderada_2_Turtlesim_1/meu_workspace/build/turtlesim /home/murilo_prianti/Documents/GitHub/Ponderada_2_Turtlesim_1/meu_workspace/build/turtlesim/CMakeFiles/uninstall.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/uninstall.dir/depend
 
